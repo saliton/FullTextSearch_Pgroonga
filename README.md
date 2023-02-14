@@ -1,4 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Soliton-Analytics-Team/FullTextSearch_Pgroonga/blob/main/FullTextSearch_Pgroonga.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saliton/FullTextSearch_Pgroonga/blob/main/FullTextSearch_Pgroonga.ipynb)
 
 # Colabで全文検索（その5：PGroonga編）
 
